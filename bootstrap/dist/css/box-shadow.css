@@ -1,0 +1,13 @@
+﻿ .box-shadow
+        {
+            box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.2);
+            -webkit-box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.2);
+            -ms-box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.2);
+            -o-box-shadow: 1px 2px 6px 1px rgba(0,0,0,0.2);
+        }
+
+        .panel > .list-group .list-group-item, .panel > .panel-collapse > .list-group .list-group-item
+        {
+            border-width: 10px 0;
+            border-radius: 0;
+        }
